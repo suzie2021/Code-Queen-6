@@ -12,6 +12,7 @@ body{
 }
 article{
     text-align: center;
+    
 }
 .img{
     max-width: 40%;
@@ -21,11 +22,13 @@ article{
     align-items: center;
     
 }
+ 
+
 h2{
     
     color:rgb(68, 9, 228);
     font-size: 60px;
-    font-family: fantasy;
+    font-family:serif;
     text-align: center;
     text-shadow: slateblue;
     word-spacing: 2px;
